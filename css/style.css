@@ -2,11 +2,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: linear-gradient(to bottom right, red, yellow);
 }
 
 #password {
   color: green;
   text-align: center;
-  border: 5px solid red;
   font-family: sans-serif;
+  margin-top: 25%;
+}
+
+#esercizio h1 {
+  color: black;
 }
